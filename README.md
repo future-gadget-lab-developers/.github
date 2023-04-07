@@ -1,3 +1,3 @@
-# .github
+# Future Gadget Lab
 
-Broke bois with computers they can't afford who like to develop software and drink bubble tea together (leading to even more brokeness)
+we like to develop software
